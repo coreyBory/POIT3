@@ -1,0 +1,260 @@
+    1  exit
+    2  clear
+    3  ls
+    4  ifconfig
+    5  hostname
+    6  exit
+    7  clear
+    8  ls
+    9  clear
+   10  hostnamectl
+   11  nano /etc/hostname
+   12  clear
+   13  sudo nano /etc/hosts
+   14  clear
+   15  reboot
+   16  clear
+   17  ifconfig
+   18  ping google.com
+   19  shutdown -n
+   20  shutdown /?
+   21  man shutdown
+   22  shutdown -P
+   23  exit
+   24  ls .ssh/
+   25  exit
+   26  ls
+   27  clear
+   28  pwd
+   29  ssh-copy-id root@gateway
+   30  clear
+   31  exit
+   32  clear
+   33  nano /etc/ssh/sshd_config
+   34  clear
+   35  exit
+   36  ssh-copy-id root@gateway
+   37  exit
+   38  clear
+   39  ls
+   40  clear
+   41  exit
+   42  ssh root@gateway
+   43  clear
+   44  ls
+   45  cd .ssh/
+   46  ls
+   47  clear
+   48  cat authorized_keys
+   49  clear
+   50  ls
+   51  clear
+   52  exit
+   53  ssh root@gateway
+   54  clear
+   55  exit
+   56  clear
+   57  ifconfig
+   58  exit
+   59  clerar
+   60  clear
+   61  yum update
+   62  yum install htop
+   63  yum update
+   64  www.pringles.com
+   65  ping 1.1.1.1
+   66  clear
+   67  yum update
+   68  yum install htop
+   69  yum -y
+   70  yum -y install sl
+   71  htop
+   72  nano secretmessage.txt
+   73  yum -y install figlet
+   74  yum search motd
+   75  echo "hi" | figlet
+   76  echo "mindblaster"| figlet
+   77  echo "Too Fly Too Die" | figlet
+   78  echo "J.Cole is my DAD" | figlet
+   79  echo "Hi Michael" | figlet > .message
+   80  ls
+   81  ls -a
+   82  ls -a rt
+   83  ls -art
+   84  cat .message
+   85  nano .bashrc
+   86  nano .bashrc
+   87  clear
+   88  ifconfig
+   89  figlet ThunderBird
+   90  figlet ThunderBird > .hidden
+   91  exit
+   92  figlet ThunderBird
+   93  figlet ThunderBird > .hidden
+   94  nano ~/.bashrc
+   95  exit
+   96  figlet Papi Corey > .hidden
+   97  nano ~/.bashrc
+   98  figlet Welcome Back Papi Corey > .hidden
+   99  exit
+  100  adduser corey
+  101  adduser
+  102  useradd
+  103  useradd corey
+  104  usermod
+  105  user
+  106  users
+  107  sudo adduser corey
+  108  sudo adduser Corey
+  109  users
+  110  passwd
+  111  useradd Corey
+  112  passwd
+  113  passwd corey
+  114  user
+  115  users
+  116  finduser corey
+  117  su corey
+  118  exit
+  119  su corey
+  120  adduser Corey
+  121  adduser Coreyc -m
+  122  su Coreyc
+  123  yum install tree
+  124  tree/
+  125  tree
+  126  ls  /
+  127  cat root
+  128  cd root
+  129  cd bin
+  130  tree /home
+  131  cd Coreyc
+  132  tree /root
+  133  clear
+  134  tree var
+  135  tree /var
+  136  clear
+  137  cat /dev/urandom
+  138  clear
+  139  ~.
+  140  clear
+  141  cat dev/null
+  142  cat /dev/null
+  143  cat /dev/autofs
+  144  cat /dev/autofs//dev/null
+  145  cat
+  146  passwd
+  147  cat ~/.bash_history
+  148  touch samplefile
+  149  ls -l
+  150  echo "hi" > samplefile
+  151  ls -l
+  152  touch song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3
+  153  touch snap1.jpg snap2.jpg snap3.jpg snap4.jpg snap5.jpg snap6.jp6
+  154  touch film1.avi film2.avi film3.avi film4.avi film5.avi film6.avi
+  155  ls
+  156  mkdir Music
+  157  ls -l
+  158  mv song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3 Music/
+  159  cd music
+  160  cd Music
+  161  ls
+  162  mkdir Pictures
+  163  12.
+  164  cd homr
+  165  exit
+  166  cd music
+  167  cd Music
+  168  ls
+  169  cd
+  170  mv snap1.jpg snap2.jpg snap3.jpg snap4.jpg snap5.jpg snap6.jp6 /Pictures
+  171  mkdir Pictures
+  172  mv snap1.jpg snap2.jpg snap3.jpg snap4.jpg snap5.jpg snap6.jp6 /Pictures
+  173  mv snap1.jpg snap2.jpg snap3.jpg snap4.jpg snap5.jpg snap6.jp6 Pictures/
+  174  cd Videos
+  175  mkdir Videos
+  176  mv film1.avi film2.avi film3.avi film4.avi film5.avi film6.avi Videos/
+  177  mkdir friends family work
+  178  cd Pictures
+  179  ls
+  180  cat snap3.jpg
+  181  ls
+  182  cd
+  183  ls -l
+  184  cd samplefiles
+  185  cd samplefile
+  186  clear
+  187  ls -l
+  188  cd friends
+  189  cp ~/Music/song1.mp3 ~/example/Music/song2.mp3 ~/example/Pictures/
+  190  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/
+  191  ls -l ../Pictures/
+  192  mv ../Pictures/song1.mp3 ../Pictures/song2.mp3 ../Music/
+  193  ls -l
+  194  cd
+  195  ls
+  196  ls -l
+  197  cd friends
+  198  ls
+  199  ls -l
+  200  cd
+  201  cd ~
+  202  ls /proc/
+  203  ls /pictures
+  204  cd pictures
+  205  ls -l
+  206  cd /pictures
+  207  cd /Pictures
+  208  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/snap1.jpg ~/Pictures/snap2.jpg ~/Videos/film1.avi ~/Videos/film2.avi .
+  209  .
+  210  ..
+  211  cd Pictures/
+  212  ls
+  213  cd
+  214  cd Videos/
+  215  ls
+  216  cd
+  217  ls -l
+  218  cd friends/
+  219  ls
+  220  -ls
+  221  ls -l
+  222  cd ../family/
+  223  cp ~/Music/song3.mp3 ~/Music/song4.mp3 ~/Pictures/snap3.jpg ~/Pictures/snap4.jpg ~/Videos/film3.avi ~/Videos/film4.avi .
+  224  pwd
+  225  cd
+  226  cd ../work/
+  227  cd family/
+  228  cd ../work/
+  229  cp ~/Music/song5.mp3 ~/Music/song6.mp3 ~/Pictures/snap5.jpg ~/Pictures/snap6.jpg ~/Videos/film5.avi ~/Videos/film6.avi .
+  230  ls -l
+  231  cd
+  232  cd..
+  233  cd ..
+  234  cd /
+  235  cd ~
+  236  rmdir family friends
+  237  rmdir Friends
+  238  clear
+  239  rmdir family friends
+  240  rm -r family Friends
+  241  rm -r family/ Friends/
+  242  rm -r family/
+  243  ls -l
+  244  rm -r family/
+  245  ls ls
+  246  ls -l
+  247  rm -r family/
+  248  clear
+  249  ls
+  250  ls -l
+  251  clear
+  252  cd ..
+  253  rdir work
+  254  rmdir work
+  255  ls -l
+  256  cd ~
+  257  ls -l
+  258  rmdir work
+  259  rm -r work/
+  260  history
